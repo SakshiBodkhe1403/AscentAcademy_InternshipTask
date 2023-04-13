@@ -1,1 +1,1 @@
-A simple JavaScript Calculator made by [Chandrabhan Yadav]
+A simple JavaScript Calculator made by [Sakshi Bodkhe].
